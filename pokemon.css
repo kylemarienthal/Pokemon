@@ -1,0 +1,12 @@
+ .pokemon{
+   display: inline-block;
+   width: 934px;
+   /*background: blue;*/
+   }
+.info{
+  display: inline-block;
+   background-color: red;
+   outline: dotted red;
+   width: 934px;
+   vertical-align: top;
+ }
